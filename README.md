@@ -1,9 +1,10 @@
 # Products API - Java + Spring Boot + PostgreSQL
 
-[Português](#portugues) | [English](#english)
+[Português](#português) | [English](#english)
 
 ---
 
+## Português
 
 API RESTful para gerenciamento de produtos desenvolvida com Java e Spring Boot, seguindo boas práticas de desenvolvimento backend. O projeto demonstra proficiência em arquitetura em camadas, integração com banco de dados, tratamento de erros e validação de dados.
 
@@ -121,7 +122,7 @@ A API estará disponível em `http://localhost:8080`
 - **Injeção de dependência** - `@Autowired` e container IoC do Spring
 
 ---
-
+## English
 
 RESTful API for product management built with Java and Spring Boot, following industry best practices for backend development. This project demonstrates proficiency in layered architecture, database integration, error handling, and input validation.
 
